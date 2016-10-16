@@ -1,4 +1,5 @@
 ### F학점 공대형 낚시 편 장비
+![alt text](/ElectricReel/image/reel.jpg "reel")
 
 F학점 공대형 낚시 편엔 총 4가지의 장비가 등장합니다.  
 
