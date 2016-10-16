@@ -1,4 +1,4 @@
-#### Drone 낙하 시스템
+## Drone 낙하 시스템
 ![alt text](/DroneRelease/image/DroneRelease2.jpg "Drone Release")
 
 3d 프린터를 이용하여 구조부를 만들었고 소형 서보 모터와 RC 수신기 + 배터리 그리고 RC 송신기를 이용하여 구현하였다.(송수신기는 Spektrum 사의 것을 사용)

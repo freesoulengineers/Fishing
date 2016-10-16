@@ -1,4 +1,4 @@
-#### 전동 릴 콘트롤러
+## 전동 릴 콘트롤러
 ![alt text](/ElectricReel/image/reel-B.jpg "reel-B")
 
 A 버젼 (은성 매트릭스 300) / B 버젼 (시마노 플레이즈 3000)  

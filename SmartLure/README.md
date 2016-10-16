@@ -1,4 +1,4 @@
-#### 스마트 루어
+## 스마트 루어
 ![alt text](/SmartLure/image/SmartLure2.jpg "Smart Lure")
 
 아두이노 기반인 adafruit사의 trinket 보드와 직접 만든 인터페이스 보드를 이용하여 프로그램 가능한 초소형 루어를 만들었다. 풀컬러 LED + 모터 + 110mAh의 리튬폴리머 배터리가 추가로 장차되었고 완전 방수를 위하여 3d 프린터로 만든 케이스에 실리콘 O ring과 진공 구리스를 사용하여 패킹하였다.
