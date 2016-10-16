@@ -14,3 +14,6 @@
 #### 파일 살펴보기
 - 3d 폴더: 3d 프린터로 인쇄가능한 .stl 파일
 - image 폴더: 각종 참조 사진 들
+
+#### 사용된 기술들
+[공대형 Wiki 가서 확인!](https://github.com/gradefree-eng/Fishing/wiki/F%ED%95%99%EC%A0%90-%EA%B3%B5%EB%8C%80%ED%98%95-%EC%9C%84%ED%82%A4)
