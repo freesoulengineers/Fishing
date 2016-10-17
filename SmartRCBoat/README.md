@@ -14,7 +14,7 @@
 수중 상황에서 염두해야할것은 물속에서 2.4기가난 5.8기가 등의 전파는 진행하지 않는다는것. 항상 통신 되는 부분은 물밖으로 나와 있어야한다.
 
 ### 스마트 어탐 RC 보트 구조부 변천사
-![alt text](/SmartRCBoat/image/SmartRCBoat-history.jpg "boat overview")
+![alt text](/SmartRCBoat/image/SmartRCBoat-history.jpg "boat history")
 
 첫번째 프로토타입에서 2번 더 업그레이드가 진행되어 최종의 형태를 갖게 되었다. 보트에서 예상치 못했던 부분 중 하나는 부력이 조금만 달라져도 보트의 밸런스가 깨진다는 것이다. 보트 주변에 뭔가 달아 개조한다는게 쉽지만은 않은 일.
 
