@@ -6,6 +6,8 @@
 참치는 공대형들에게 무리고 일단 캐스팅을 정확히 할 수 있는 방법이 필요했다.
 드론으로 정확한 위치에 캐스팅을 할 수 있어야 했다.
 ```
+### Drone 낙하 시스템 개요
+![alt text](/DroneRelease/image/DroneRelease-sketch.jpg "Drone Release")
 
 3d 프린터를 이용하여 구조부를 만들었고 소형 서보 모터와 RC 수신기 + 배터리 그리고 RC 송신기를 이용하여 구현하였다.(송수신기는 Spektrum 사의 것을 사용)
 
