@@ -22,7 +22,9 @@ F학점 공대형 낚시 편엔 총 4가지의 장비가 등장합니다.
 ---
 
 ### 오픈소스 라이센스
-F학점 공대형 자료들은 Creative Commons 저작자표시-동일조건변경허락 (CC BY-SA) 2.0 라이센스를 따릅니다.  
+Github의 F학점 공대형 자료들은 소스코드 제외 모든 부분 Creative Commons 저작자표시-동일조건변경허락 (CC BY-SA) 2.0 라이센스를 따릅니다.  
+
+소스코드의 경우에는 GNU General Public License v3.0을 따릅니다.
 
 ### 왜 오픈소스?
 [공대형 Wiki 가서 확인!](https://github.com/gradefree-eng/Fishing/wiki/F%ED%95%99%EC%A0%90-%EA%B3%B5%EB%8C%80%ED%98%95-%EC%9C%84%ED%82%A4)
