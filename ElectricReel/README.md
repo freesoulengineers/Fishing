@@ -39,4 +39,4 @@ open drain 출력을 만들어 전기적으로 스위치를 눌러주는 식으�
 - image 폴더: 각종 참조 사진 들
 
 #### 사용된 기술들
-[공대형 낚시 편 Wiki 가서 확인!](https://github.com/gradefree-eng/Fishing/wiki/F%ED%95%99%EC%A0%90-%EA%B3%B5%EB%8C%80%ED%98%95-%EC%9C%84%ED%82%A4)
+[공대형 낚시 편 Wiki 가서 확인!](https://github.com/gradefree-eng/Fishing/wiki/F%ED%95%99%EC%A0%90-%EA%B3%B5%EB%8C%80%ED%98%95-%EB%82%9A%EC%8B%9C%ED%8E%B8-%EC%9C%84%ED%82%A4)
